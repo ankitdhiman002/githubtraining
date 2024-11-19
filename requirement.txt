@@ -3,3 +3,6 @@ home page contact page
 database
 admin.
 dark mode
+login options
+received money
+send money
